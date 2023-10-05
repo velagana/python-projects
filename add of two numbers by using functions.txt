@@ -1,0 +1,7 @@
+def add(a,b):
+	result = a+b;
+        return result;
+a = int(input(" enter tha value of a")):
+b = int(input(" enter the value of b"));
+addition_result = a+b;
+print(addition);
