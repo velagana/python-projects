@@ -1,0 +1,9 @@
+# programme to find the copound interest:
+# A  = p(1+R/100)**t
+a = int(input("enter the value of the p:"));
+b = int(input("enter the value of the R :"));
+c = int(input("enter the value of the t :"));
+A = a*(1+b/100)**c;
+compound_interest =  A - a;
+print(A);
+print(a);
