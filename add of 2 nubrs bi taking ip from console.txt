@@ -1,0 +1,5 @@
+
+a = int(input(" enter tha value of a")):
+b = int(input(" enter the value of b"));
+addition_result = a+b;
+print(addition);
